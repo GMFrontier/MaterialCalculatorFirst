@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             MaterialCalculatorFirstTheme {
                 // A surface container using the 'background' color from the theme
+                Constants.BASE_URL
                 CalculatorScreen()
             }
         }
