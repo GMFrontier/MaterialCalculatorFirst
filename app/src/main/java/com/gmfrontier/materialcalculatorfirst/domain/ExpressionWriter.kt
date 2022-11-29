@@ -11,7 +11,7 @@ class ExpressionWriter {
                 expression = evaluator.evaluate().toString()
             }
             CalculatorAction.Clear -> {
-                expression = ""
+                expression = "0.0"
             }
             CalculatorAction.Decimal -> {
                 if (canEnterDecimal()) {
