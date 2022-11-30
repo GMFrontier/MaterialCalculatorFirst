@@ -3,7 +3,6 @@ package com.gmfrontier.materialcalculatorfirst
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.example.materialcalculatorfirst.Constants
 import com.gmfrontier.materialcalculatorfirst.presentation.CalculatorScreen
 import com.gmfrontier.materialcalculatorfirst.ui.theme.MaterialCalculatorFirstTheme
 

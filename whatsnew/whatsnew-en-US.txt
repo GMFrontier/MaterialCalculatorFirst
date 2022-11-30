@@ -1,0 +1,10 @@
+Minor improvements and fixes
+-- item
+-item
+--item
+------
+ - item
+*something*
+-something-
+ ** asd
+ *** asd
